@@ -1,0 +1,142 @@
+.mycard{
+  margin-top: 90px;
+}
+
+.auth-card {
+  /* padding : 20px; */
+  /* text-align: center; */
+  max-width: 600px;
+  margin: 10px auto;
+  height: auto;
+  border-radius: 10px;
+}
+
+.firstWrapper{
+  padding: 28px;
+}
+
+.secondWrapper{
+  padding: 28px;
+}
+
+.btn-close{
+  float: right !important;
+  font-size: 12px!important;
+}
+
+.btn-section{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+
+#accept-btn{
+  width: 140px;
+  margin-right: 20px;
+  background-color: rgb(32, 148, 57);
+}
+
+#saveSetting-btn{
+  width: 140px;
+  color: grey;
+  border: 1px solid rgb(207, 203, 203);
+}
+
+#navbarDropdown{
+  right: 20px !important;
+  color: rgb(173, 172, 172);
+}
+
+p{
+  color: grey;
+  margin-top: 20px;
+}
+
+#privacyPolicy{
+  color: black;
+}
+
+.dropdown-menu{
+  width: 600px !important;
+  left: 50%;
+}
+
+.accordanceTitle{
+  margin-left: 15px;
+}
+
+.customizeSection{
+  width: 100% !important;
+  background-color: rgb(216, 215, 215);
+  border-radius: 0px 0px 10px 10px;
+}
+
+.accordion-item{
+  margin-top: 25px;
+  border-radius: 5px;
+}
+
+.form-check-input:checked{
+  background-color: green;
+}
+
+.form-check-input:checked:focus{
+  background-color: green;
+}
+
+.form-check-input:checked:active {
+  background-color: #C8FFC8 !important; 
+}
+
+
+.form-check-input:active {
+  background-color: #C8FFC8 !important; 
+}
+
+.accordian-sec2a{
+  margin-top: 40px;
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.accordian-sec2 ul {
+  list-style-type: none;
+  padding: 0px!important;
+}
+
+li{
+  margin-top: 15px;
+  color: grey;
+}
+
+b{
+  color: black;
+}
+
+.accordian-sec2b{
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 0px;
+}
+
+.accordian-sec2c{
+  margin-top: 35px;
+  font-weight: 500;
+}
+
+.toggleIconWrapper{
+  padding-right: 135px !important;
+}
+
+
+.pluginTitleWrapper{
+  width: 150px;
+  color: grey;
+}
+
+a{
+  color: black;
+  font-size: 14px;
+  font-weight: 600;
+}
